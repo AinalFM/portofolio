@@ -1,26 +1,32 @@
 # Data Scientist 
 
-### Education
+### Technical Skills: Python, Tensorflow, Pytorch, SQL
+
+## Education
 Bachelor of Informatics, Syiah Kuala University
 
-### Experience
+## Experience
 **Laboratory Assistant - Database Programming @Syiah Kuala University (_Apr 2022_)**
-  Teaching around 25 students the introduction to database courses using SQL.
+- Teaching around 25 students the introduction to database courses using SQL.
+  
 **Member of the student association - Departement of Student Welfare Management @Syiah Kuala University (_Aug 2022 - Aug 2023_)**
-  Becoming one of the participants in the department that manages student welfare, specifically as the person in charge of informing students about scholarships.
+- Becoming one of the participants in the department that manages student welfare, specifically as the person in charge of informing students about scholarships.
+  
 **Presenter of ICELTICS Syiah Kuala University 2024 @Syiah Kuala University (_Sep 2024_)**
-Being one of the presenters at the conference to show the audience the
+- Being one of the presenters at the conference to show the audience the
 outcomes of my final project titled "Developing a Classification Model for Early Stage Alzheimer's Detection Using MRI Images with Deep Learning Methods".
+
 **Internship @ Aceh DPR Office (_Jul 2023 - Aug 2023_)**
 - Processing data and conducting analysis on the data to obtain an interpretation that can be utilized through attractive visualization.
 - Supporting the organization and entry of office archive data.
+  
 **Online Coding Tutor @Algorithmics Indonesia (_Sep 2024 - Present_)**
 - Teaching children aged 12-18 about programming languages using Python
 - Working as a team with other tutors to discuss the curriculum and the child's development during the learning process.
 
-### Projects
+## Projects
 This part contains projects that i have previously worked on, including data analysis, data visualization, classification, and clustering. The datasets used here mostly come from Kaggle. 
-[Link](https://github.com/AinalFM)
+[Link to my project](https://github.com/AinalFM)
 - Classification on Bank Additional Dataset
 - Analyzing and visualizing Uber vs Lyft Dataset
 - Analyzing and visualizing Rain in Australia Dataset
@@ -30,7 +36,7 @@ This part contains projects that i have previously worked on, including data ana
 - Clustering on Credit Card Dataset
 - Developing a Classification Model for Early Stage Alzheimer's Detection Using MRI Images with Deep Learning Methods
 
-### Publication
+## Publication
 Developing a Classification Model for Early Stage Alzheimer's Detection Using MRI Images with Deep Learning Methods
 [Publication](https://www.semanticscholar.org/paper/Developing-a-Classification-Model-for-Early-Stage-Malahayati-Misbullah/f8d91bceb3f6ffb15aa682e9818c7f97447092f0)
 
